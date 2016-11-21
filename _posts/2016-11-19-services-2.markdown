@@ -1,0 +1,8 @@
+---
+layout: default
+img: spacerental.jpg
+category: Services
+title: Meeting Space and<br>Event Rental
+description: |
+---
+  Available now: short-term space rental. <a href="#contact">Contact us</a> for pricing and more information.
