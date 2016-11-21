@@ -5,4 +5,4 @@ category: Services
 title: Reading Room and<br>Arts Space
 description: |
 ---
-  Coming soon: a reading room and arts venue, open by appointment. <a href="#contact">Contact us</a> to find out more.
+  Coming soon: a reading room and arts venue, open by appointment. <a href="mailto:info@221prospect.com">Contact us</a> to find out more.
