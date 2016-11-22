@@ -1,8 +1,0 @@
----
-layout: default
-img: spacerental.jpg
-category: Services
-title: Meeting Space and<br>Event Rental
-description: |
----
-  Available now: short-term space rental. <a href="mailto:info@221prospect.com">Contact us</a> for pricing and more information.
