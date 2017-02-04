@@ -13,9 +13,7 @@ Capacity: 20-35 for meetings (where all are seated), more for events (where stan
 
 Bathrooms: 1
 
-Lounge: 1
-
-Contents of Space:
+**Contents of Space:**
 
 * 20 chairs
 * 5 Tables
@@ -32,7 +30,7 @@ Accessible
 
 Note that 221 Prospect uses only green cleaning and recycled paper products for a safer environment that is better for people and the planet.
 
-Rates:
+**Rates:**
 
 * Security Deposit: $100
 * $40 per hour for for-profit organizations
@@ -40,14 +38,16 @@ Rates:
 * 1/2 day rate $125 (4 hours)
 * Full day rate $200 (8 hours)
 
-Weekly or monthly rental: <a href="mailto:info@221prospect.com">Contact us</a> for rate
+**Weekly or monthly rental:**
 
-Cancellation Policy:
+<a href="mailto:info@221prospect.com">Contact us</a> for rate
+
+**Cancellation Policy:**
 
 100% with 8 day notice
 
-Parking:
+**Parking:**
 
-M-F 7am-5 pm There is only metered street parking available.
+Metered street parking: M-F 7am-5pm
 
 At all other times, there is a free lot behind 221 Prospect Street and all metered parking is free.
