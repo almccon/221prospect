@@ -7,4 +7,10 @@ description: |
 ---
 _Coming soon:_ daily and monthly desk rental for designers and creatives.
 
-<a href="mailto:info@221prospect.com">Contact us</a> to learn more and receive updates about availability.
+Follow <a href="http://localgroup.studio">Localgroup Studio</a> for more information:
+
+ - <a href="https://www.facebook.com/Localgroup-Studio-1752356958427452">Facebook</a>
+ - <a href="http://twitter.com/localgroupbham">Twitter</a>
+ - <a href="http://instagram.com/localgroupbham">Instagram</a>
+
+<a href="mailto:info@localgroup.studio">Contact us</a> to learn more and receive updates about availability.
