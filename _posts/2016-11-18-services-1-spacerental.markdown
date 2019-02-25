@@ -9,13 +9,13 @@ _Available now:_ short-term space rental.
 
 Size: 2600 square feet
 
-Capacity: 45-60 for meetings (where all are seated), more for events (where standing is expected)
+Capacity: 50-60 for meetings (where all are seated), more for events (where standing is expected)
 
 Bathrooms: 1
 
 **Contents of Space:**
 
-* 40 stacking chairs
+* 50 stacking chairs
 * 7 Aeron office chairs
 * 9 Tables
 * 2 sofas (seats 3 each)

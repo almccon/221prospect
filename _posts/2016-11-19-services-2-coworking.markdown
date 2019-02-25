@@ -5,7 +5,7 @@ category: Services
 title: Coworking Space<br>For Designers and Creatives
 description: |
 ---
-_Coming soon:_ daily and monthly desk rental for designers and creatives.
+_Now available:_ daily and monthly desk rental for designers and creatives.
 
 Follow <a href="http://localgroup.studio">Localgroup Studio</a> for more information:
 
