@@ -47,8 +47,8 @@ Note that 221 Prospect uses only green cleaning and recycled paper products for 
 
 **Cancellation Policy:**
 
-100% with 30 day notice
-50% with 8 day notice
+* 100% with 30 day notice
+* 50% with 8 day notice
 
 **Parking:**
 
